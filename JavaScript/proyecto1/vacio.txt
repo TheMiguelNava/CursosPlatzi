@@ -1,0 +1,8 @@
+Hola prro!!
+
+Viva la reina de Inglaterra!
+
+Nueva línea agregada después del add y le voy a poner el commit
+sin volverle a dar el add.
+Conclusión: Sólo leyo hasta el viva la reina, lo que escribí después del git
+add valió cheetos. Entonces no es un seguimiento, es sólo una copia y ya.
